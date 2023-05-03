@@ -2,9 +2,8 @@ ________________________________________________________________________________
 
 _*Sobre mim*_ ✍🏻
 
-Uma pessoa curiosa, apaixonada por conhecimento, pelas infinitas possibilidades.<br>
+Uma pessoa curiosa, apaixonada por conhecimento e pelas infinitas possibilidades.<br>
 Diversidade, cultura, história, arte, idiomas, natureza, gastronomia < VIAGENS! <br>
-👆 isso me move.
 
 🎓 Graduada em Design Gráfico e Produto<br>
 Em transição de carreira, migrando pra área de Tecnologia/Desenvolvimento (mobile, web, desktop)💻<br><br>
