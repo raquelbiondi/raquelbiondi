@@ -9,7 +9,10 @@ Em transição de carreira, migrando pra área de Tecnologia/Desenvolvimento Web
 Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e aprendizados!
 <br>
 _____________________________________________________________________________________________________________________
-📒 Aluna de Engenharia Front-End na EBAC <b> <> </b>
+Atualmente fazendo: 
+📒 Graduação Técnologa em Análise e Desenvolvimento de Sistemas na <b>Descomplica</b>
+📒 Curso Profissionalizante de Engenharia Front-end na <b>EBAC</b>
+
   <br>
 
   *Ferramentas de conhecimento:*<br>
