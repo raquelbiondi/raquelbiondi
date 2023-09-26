@@ -13,5 +13,5 @@ ________________________________________________________________________________
   <br>
 
   *Ferramentas de conhecimento:*<br>
-💻 Adobe Photoshop/ Adobe Illustrator/ Adobe InDesign <br>
-💻 HTML5/ CSS3/ JavaScript 
+💻 Adobe Photoshop | Adobe Illustrator | Adobe InDesign <br>
+💻 HTML5 | CSS3 | JavaScript | jQuery | Bootstrap
