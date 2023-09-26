@@ -9,7 +9,7 @@ Em transição de carreira, migrando pra área de Tecnologia/Desenvolvimento Web
 Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e aprendizados!
 <br>
 _____________________________________________________________________________________________________________________
-Atualmente me dedicando à: <br>
+*Atualmente me dedicando à:* <br>
 📒 Graduação Técnologa em Análise e Desenvolvimento de Sistemas na <b>Descomplica</b><br>
 📒 Curso Profissionalizante de Engenharia Front-end na <b>EBAC</b>
 
