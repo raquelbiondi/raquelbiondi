@@ -1,24 +1,18 @@
-_____________________________________________________________________________________________________________________
 
-## Sobre mim ✍🏻
+<h3><i> Sobre mim ✍🏻</i></h3>
 
-Uma pessoa curiosa, apaixonada por conhecimento e pelas infinitas possibilidades.<br><br>
+Uma pessoa curiosa, apaixonada por conhecimento e pelas infinitas possibilidades.<br>
+Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e aprendizados!<br>
 
-##🎓 Formação
-- Graduada em Design Gráfico e Produto<br>
-- Em transição de carreira, migrando pra área de Tecnologia/Desenvolvimento Web💻<br><br>
+<h3><i>🎓 Formação</i></h3>
+- Design Gráfico e Produto na FACAMP<br>
+- Graduanda em Análise e Desenvolvimento de Sistemas na UNINOVE<br>
 
-```
-Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e aprendizados!
-```
-<br>
-_____________________________________________________________________________________________________________________
-## 📚 Atualmente me dedicando à: <br>
-📒 Graduação Técnologa em Análise e Desenvolvimento de Sistemas na <b>UNINOVE</b><br>
-📒 Curso Profissionalizante de Engenharia Front-end na <b>EBAC</b>
-
-  <br>
-
-## Ferramentas e Linguagens de conhecimento: <br>
+<h3><i>📚 Também me dedicando à:</i></h3>
+📒 Bootcamp DIO(Digital Innovation One) em parceria com a SANTANDER.<br>
+📒 Curso Profissionalizante de Engenharia Front-end na EBAC.
+  <br><br>
+_____________________________________________________________________________________________________________________ <br><br>
+<h4><i> Ferramentas e Linguagens de conhecimento:</i></h4>
 💻 Adobe Photoshop | Adobe Illustrator | Adobe InDesign <br>
 💻 HTML5 | CSS3 | JavaScript | jQuery | Bootstrap | SASS
