@@ -9,7 +9,7 @@ Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e apr
 - Graduanda em Análise e Desenvolvimento de Sistemas na UNINOVE<br>
 
 <h3><i>📚 Também me dedicando à:</i></h3>
-📒 Bootcamp LeWagon presencial.<br>
+📒 Bootcamp presencial de Web Development na LeWagon.<br>
 📒 Cursos complementares da UNINOVE.
   <br><br>
 _____________________________________________________________________________________________________________________ <br><br>
