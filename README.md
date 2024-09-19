@@ -9,8 +9,8 @@ Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e apr
 - Graduanda em Análise e Desenvolvimento de Sistemas na UNINOVE<br>
 
 <h3><i>📚 Também me dedicando à:</i></h3>
-📒 Bootcamp DIO(Digital Innovation One) em parceria com a SANTANDER.<br>
-📒 Curso Profissionalizante de Engenharia Front-end na EBAC.
+📒 Bootcamp LeWagon presencial.<br>
+📒 Cursos complementares da UNINOVE.
   <br><br>
 _____________________________________________________________________________________________________________________ <br><br>
 <h4><i> Ferramentas e Linguagens de conhecimento:</i></h4>
