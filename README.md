@@ -14,5 +14,5 @@ Me adapto fácil aos ambientes e estou sempre aberta a novas experiências e apr
   <br><br>
 _____________________________________________________________________________________________________________________ <br><br>
 <h4><i> Ferramentas e Linguagens de conhecimento:</i></h4>
-💻 Adobe Photoshop | Adobe Illustrator | Adobe InDesign <br>
-💻 HTML5 | CSS3 | JavaScript | jQuery | Bootstrap | SASS
+💻 Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Figma <br>
+💻 HTML5 | CSS3 | JavaScript | Ruby | jQuery | Bootstrap | SASS 
